@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-laxarjs",
+  "version": "0.1.0-pre",
+  "description": "ESLint configuration settings for LaxarJS ES2015 repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaxarJS/eslint-config-laxarjs.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "aixigo AG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaxarJS/eslint-config-laxarjs/issues"
+  },
+  "homepage": "https://github.com/LaxarJS/eslint-config-laxarjs#readme",
+  "devDependencies": {
+    "eslint": "^3.0.1"
+  }
+}
