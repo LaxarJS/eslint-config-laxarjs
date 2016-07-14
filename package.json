@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-laxarjs",
-  "version": "0.3.0-pre",
+  "version": "0.3.0",
   "description": "ESLint configuration settings for LaxarJS ES2015 repositories",
   "main": "index.js",
   "scripts": {
