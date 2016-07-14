@@ -3,7 +3,9 @@
    "parserOptions": {
       "sourceType": "module",
       "ecmaVersion": 6,
-      "ecmaFeatures": {}
+      "ecmaFeatures": {
+         "experimentalObjectRestSpread": true
+      }
    },
    "env": {
       "browser": true,
