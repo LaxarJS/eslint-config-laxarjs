@@ -2,6 +2,8 @@
 
 ## Last Changes
 
+- [#2](https://github.com/LaxarJS/laxar/issues/2): add Node.js preset (`"extends": "laxarjs/node"`)
+
 
 ## v0.2.0
 

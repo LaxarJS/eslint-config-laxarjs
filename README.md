@@ -18,4 +18,12 @@ In your project, create a file `.eslintrc.json` with the following contents:
 }
 ```
 
+Or, if you are building a Node.js package:
+
+```json
+{
+   "extends": "laxarjs/node"
+}
+```
+
 If applicable, define additional configuration rules, or override the *laxarjs* rules.

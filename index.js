@@ -5,8 +5,4 @@
  */
 /* eslint-env node */
 
-const fs = require( 'fs' );
-const path = require( 'path' );
-
-const configPath = path.join( __dirname, '.eslintrc.json' );
-module.exports = JSON.parse( fs.readFileSync( configPath, 'utf8' ) );
+module.exports = require( './.eslintrc.json' );
