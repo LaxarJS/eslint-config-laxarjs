@@ -2,6 +2,8 @@
 
 ## Last Changes
 
+- [#3](https://github.com/LaxarJS/eslint-config-laxarjs/issues/3): changed no-multi-spaces rule to warn
+
 
 ## v0.3.0
 
