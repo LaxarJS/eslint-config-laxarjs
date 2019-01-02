@@ -2,6 +2,8 @@
 
 ## Last Changes
 
+- [#5](https://github.com/LaxarJS/eslint-config-laxarjs/issues/5): added space-in-parens rule with level warn
+
 
 ## v2.0.0
 ## v2.0.0-rc.0

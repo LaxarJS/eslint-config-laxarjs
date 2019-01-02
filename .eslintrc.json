@@ -149,6 +149,7 @@
       "prefer-spread": "warn",
       "prefer-template": "warn",
       "rest-spread-spacing": [ "warn", "never" ],
+      "space-in-parens": [ "warn", "always" ],
       "template-curly-spacing": [ "warn", "never" ]
    }
 }
